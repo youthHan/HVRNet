@@ -7,7 +7,7 @@ Official code for Mining Inter-Video Proposal Relations for Video Object Detecti
 By Mingfei Han, Yali Wang, [Xiaojun Chang](http://xiaojun.ai/), Yu Qiao.
 
 
-## Citing MEGA
+## Citing HVRNet
 Please cite our paper in your publications if it helps your research:
 ```
 @inproceedings{han20hvrnet,
