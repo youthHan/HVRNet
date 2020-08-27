@@ -4,6 +4,8 @@
 
 Official code for Mining Inter-Video Proposal Relations for Video Object Detection, ECCV 2020
 
+[Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660426.pdf)
+
 By Mingfei Han, Yali Wang, [Xiaojun Chang](http://xiaojun.ai/), Yu Qiao.
 
 
