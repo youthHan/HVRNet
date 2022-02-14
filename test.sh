@@ -1,0 +1,1 @@
+./tools/dist_test.sh ./configs/faster_rcnn_r101_hnl_c5.py work_dirs/faster_rcnn_r101_hnl_vid/hnmb_c5_rcnn_not_agn_512_aug/epoch_6.pth 4 --out ./work_dirs/faster_rcnn_r101_hnl_vid/hnmb_c5_rcnn_not_agn_512_aug/results_epoch_6.pkl --eval bbox > 2020_01_14_13_14_hnmb_test.log 2>& 1 &
